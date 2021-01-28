@@ -11,7 +11,7 @@
                     <div class="cover">
                         <div class="container text-center position-relative" data-aos="fade-in" data-aos-delay="400"><br/><br/><br/><br/>
                             
-                            <h1>For Admission in MD/MS/PG</h1>
+                            <h1>For Admission in MD/MS/PG </h1>
                             <a href="tel:18002663555" class="btn-get-started btn-success" style="border-color: #28a745;">Talk TO Our Expert Doc</a>
                             <hr>
                             <div class="col-md-12 row" style="justify-content: center;">
