@@ -7,7 +7,7 @@
             <div class="container text-center position-relative">
                <div class="owl-carousel owl-theme">
                   <div class="item">
-                    <img src="assets/img/368843.jpg" alt="images not found" style="background-position: center;background-repeat: no-repeat; background-size: cover; ">
+                    <img src="assets/img/cta-bg.jpg" alt="images not found" style="background-position: center;background-repeat: no-repeat; background-size: cover; ">
                     <div class="cover">
                         <div class="container text-center position-relative" data-aos="fade-in" data-aos-delay="400"><br/><br/><br/><br/>
                             

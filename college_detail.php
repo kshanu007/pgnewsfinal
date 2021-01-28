@@ -2,54 +2,16 @@
     include("db/conn.php");
     include("header.php");
 ?>
- <section id="hero" class="d-flex align-items-center">
+ <section id="hero2" class="d-flex align-items-center">
      
-               <div class="owl-carousel owl-theme">
-                  <div class="item">
-                    <img src="assets/img/bgimage2.jpg" alt="images not found">
-                    <div class="cover">
-                        <div class="container text-center position-relative" data-aos="fade-in" data-aos-delay="200">
-                            <h1>About Us</h1>
-                            <!--<a href="tel:18002668555" class="btn-get-started btn-success" style="border-color: #28a745;">Talk TO Doctor</a>-->
-                         </div>
-                    </div>
-                </div>    
-            </div>
+ <div class="container position-relative" data-aos="fade-in" data-aos-delay="200" style="bottom:0px">
+      <h1>About Us</h1>
+    </div>
   </section> 
-  <main id="main">
-       <!-- ======= Breadcrumbs ======= -->
-    <!--<section class="breadcrumbs">-->
-    <!--  <div class="container">-->
+  <main id="main" style="width:100%">
+  <section id="link" class="link" style="margin:0px 0px 20px 0px;" >
 
-    <!--    <div class="d-flex justify-content-between align-items-center">-->
-    <!--      <h2>About Us</h2>-->
-    <!--      <ol>-->
-    <!--        <li><a href="index.html">Home</a></li>-->
-    <!--        <li>About Us</li>-->
-    <!--      </ol>-->
-    <!--    </div>-->
-
-    <!--  </div>-->
-    <!--</section><!-- End Breadcrumbs -->
-
-    <section class="inner-page">
-      <div class="container">
-        <div class="row content">
-          <div class="col-lg-6" data-aos="fade-right" data-aos-delay="100">
-            <h2>About Us</h2>
-            <h3>Welcome to PG-News</h3>
-          </div>
-          <div class="col-lg-6 pt-4 pt-lg-0" data-aos="fade-left" data-aos-delay="200">
-            <p>
-              We as name concerned PG-News is known centered for every single question identified with affirmation of Medical Programs corner to corner the India Y abroad. We are notable and perceived organization since 2000 to offer the best support to each Medical wannabe for getting joined up with different clinical schools. Applicants gets profited of our organization from each edge of country for any rumored universities and foundations. Profession Clinics give unparalleled satisfaction to clinical applicants and it assits up-and-comers from peetrating of best elective school to definite confirmation at wanted organizations.<br>
-              We assist understudies with planning great and organize the necessary necessities prior to going to concentrate in abroad. We give understudies a rundown of essential prerequisites which would be required there.<br>
-              PG-News comprehends the need of help by the understudy and guardians in the underlying years as well as in the remainder of the years and that is the reason PG-News help to understudies and guardians during the entire examination time frame.
-            </p>
-          </div>
-        </div>
-      </div>
     </section>
-
       <!-- ======= Contact Section ======= -->
     <section id="contact" class="contact">
       <div class="container">
